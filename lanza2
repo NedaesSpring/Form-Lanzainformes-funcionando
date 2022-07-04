@@ -1,0 +1,2 @@
+cd /nedaes6/desa/iofiles/mante6/administracion/testpdf
+java -cp GeneradorInformes.jar es.nedaes.Generador 2 1 
